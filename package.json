@@ -1,0 +1,10 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A CLI app to track your tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
